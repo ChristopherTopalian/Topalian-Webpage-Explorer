@@ -114,7 +114,7 @@ https://github.com/ChristopherTopalian/Topalian-Website-Game-Engine
 
         function scrollIt()
         {
-            document.getElementById("thePlayer").scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
+            document.getElementById("thePlayer").scrollIntoView({block: "center", inline: "center"});
         }
 
         /*
