@@ -6,9 +6,7 @@ Dedicated to God the Father
 All Rights Reserved Christopher Topalian Copyright 2020 
 Topalian Website Game Engine, Camera Follows Player 
 i is slow speed, o is medium speed, p is fast speed
-
 W is up, S is Down, A is Left, D is Right. 
-At the moment, the Follow Player method we are using works ONLY in MOZILLA FIREFOX. Make sure you are using Firefox. 
 
 https://github.com/ChristopherTopalian/Topalian-Website-Game-Engine
 */
